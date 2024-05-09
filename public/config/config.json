@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xdf8c89b1b28b888d16170deb91de8a64aff00778",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xdf8c89b1b28b888d16170deb91de8a64aff00778",
+  "NETWORK": {
+    "NAME": "Mumbai Testnet",
+    "SYMBOL": "MATIC",
+    "ID": 80001
+  },
+  "NFT_NAME": "EldersGraceFoundersCollection",
+  "SYMBOL": "EGFC",
+  "MAX_SUPPLY": 300,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 205000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": false
+}
